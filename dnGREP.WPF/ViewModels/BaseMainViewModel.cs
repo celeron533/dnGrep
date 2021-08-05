@@ -435,7 +435,7 @@ namespace dnGREP.WPF
             }
         }
 
-        private string searchTextBoxLabel = "Folder:";
+        private string searchTextBoxLabel = Properties.Resources.Folder_;
         public string SearchTextBoxLabel
         {
             get { return searchTextBoxLabel; }
@@ -1070,7 +1070,7 @@ namespace dnGREP.WPF
             }
         }
 
-        private string windowTitle = "dnGREP";
+        private string windowTitle = Properties.Resources.dnGREP;
         public string WindowTitle
         {
             get { return windowTitle; }

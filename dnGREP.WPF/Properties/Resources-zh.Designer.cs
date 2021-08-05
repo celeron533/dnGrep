@@ -22,14 +22,14 @@ namespace dnGREP.WPF.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class Resources {
+    public class Resources_zh {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources() {
+        internal Resources_zh() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace dnGREP.WPF.Properties {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("dnGREP.WPF.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("dnGREP.WPF.Properties.Resources-zh", typeof(Resources_zh).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,7 +61,7 @@ namespace dnGREP.WPF.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to _About.
+        ///   Looks up a localized string similar to _A关于.
         /// </summary>
         public static string _About {
             get {
@@ -70,7 +70,7 @@ namespace dnGREP.WPF.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to _About dnGrep....
+        ///   Looks up a localized string similar to _A关于 dnGrep....
         /// </summary>
         public static string _About_dnGrep___ {
             get {
@@ -79,7 +79,7 @@ namespace dnGREP.WPF.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to _Bookmarks....
+        ///   Looks up a localized string similar to _书签....
         /// </summary>
         public static string _Bookmarks___ {
             get {
@@ -88,7 +88,7 @@ namespace dnGREP.WPF.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to _Cancel.
+        ///   Looks up a localized string similar to _C取消.
         /// </summary>
         public static string _Cancel {
             get {
@@ -106,7 +106,7 @@ namespace dnGREP.WPF.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to _Help.
+        ///   Looks up a localized string similar to _H帮助.
         /// </summary>
         public static string _Help {
             get {
@@ -169,7 +169,7 @@ namespace dnGREP.WPF.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to _Undo.
+        ///   Looks up a localized string similar to _U撤销.
         /// </summary>
         public static string _Undo {
             get {

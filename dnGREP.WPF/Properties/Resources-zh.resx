@@ -322,22 +322,22 @@
     <value>Wrap Text</value>
   </data>
   <data name="_About" xml:space="preserve">
-    <value>_About</value>
+    <value>_A关于</value>
   </data>
   <data name="_About_dnGrep..." xml:space="preserve">
-    <value>_About dnGrep...</value>
+    <value>_A关于 dnGrep...</value>
   </data>
   <data name="_Bookmarks..." xml:space="preserve">
-    <value>_Bookmarks...</value>
+    <value>_书签...</value>
   </data>
   <data name="_Cancel" xml:space="preserve">
-    <value>_Cancel</value>
+    <value>_C取消</value>
   </data>
   <data name="_Dot as newline" xml:space="preserve">
     <value>_Dot as newline</value>
   </data>
   <data name="_Help" xml:space="preserve">
-    <value>_Help</value>
+    <value>_H帮助</value>
   </data>
   <data name="_Multiline" xml:space="preserve">
     <value>_Multiline</value>
@@ -358,7 +358,7 @@
     <value>_Text</value>
   </data>
   <data name="_Undo" xml:space="preserve">
-    <value>_Undo</value>
+    <value>_U撤销</value>
   </data>
   <data name="_Whole word" xml:space="preserve">
     <value>_Whole word</value>

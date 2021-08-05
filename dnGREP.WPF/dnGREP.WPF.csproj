@@ -164,6 +164,16 @@
     <Compile Include="MVHelpers\TypeOfSearchValueConverter.cs" />
     <Compile Include="MVHelpers\ValidationColorConverter.cs" />
     <Compile Include="Properties\LayoutProperties.cs" />
+    <Compile Include="Properties\Resources-zh.Designer.cs">
+      <DependentUpon>Resources-zh.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Properties\ResourcesTooltips.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ResourcesTooltips.resx</DependentUpon>
+    </Compile>
     <Compile Include="ThemedHighlightingManager.cs" />
     <Compile Include="Views\RenameWindow.xaml.cs">
       <DependentUpon>RenameWindow.xaml</DependentUpon>
@@ -428,8 +438,12 @@
     <Compile Include="Views\TestPatternView.xaml.cs">
       <DependentUpon>TestPatternView.xaml</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Properties\Resources-zh.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources-zh.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
+      <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <None Include="app.config">
@@ -442,6 +456,10 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+    <EmbeddedResource Include="Properties\ResourcesTooltips.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ResourcesTooltips.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Resources\ASPX.xshd" />
     <EmbeddedResource Include="Resources\Boo.xshd" />
     <EmbeddedResource Include="Resources\Coco-Mode.xshd" />
