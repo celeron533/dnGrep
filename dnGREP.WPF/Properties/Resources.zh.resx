@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About dnGREP" xml:space="preserve">
-    <value>About dnGREP</value>
+    <value>关于 dnGREP</value>
   </data>
   <data name="Acknowledgments" xml:space="preserve">
     <value>Acknowledgments</value>
@@ -127,10 +127,10 @@
     <value>after</value>
   </data>
   <data name="All dates" xml:space="preserve">
-    <value>All dates</value>
+    <value>所有日期</value>
   </data>
   <data name="All sizes" xml:space="preserve">
-    <value>All sizes</value>
+    <value>所有大小</value>
   </data>
   <data name="Asterisk pattern" xml:space="preserve">
     <value>Asterisk pattern</value>
@@ -145,10 +145,10 @@
     <value>Boolean operators</value>
   </data>
   <data name="Build date" xml:space="preserve">
-    <value>Build date</value>
+    <value>编译日期</value>
   </data>
   <data name="Built on" xml:space="preserve">
-    <value>Built on</value>
+    <value>编译日期</value>
   </data>
   <data name="Capture group search" xml:space="preserve">
     <value>Capture group search</value>
@@ -172,7 +172,7 @@
     <value>CSV Results</value>
   </data>
   <data name="C_ase sensitive" xml:space="preserve">
-    <value>C_ase sensitive</value>
+    <value>大小写敏感</value>
   </data>
   <data name="Delete files..." xml:space="preserve">
     <value>Delete files...</value>
@@ -196,7 +196,7 @@
     <value>Everything</value>
   </data>
   <data name="Folder:" xml:space="preserve">
-    <value>Folder:</value>
+    <value>文件夹:</value>
   </data>
   <data name="Follow symbolic links" xml:space="preserve">
     <value>Follow symbolic links</value>
@@ -220,19 +220,19 @@
     <value>Include hidden folders</value>
   </data>
   <data name="Include subfolders" xml:space="preserve">
-    <value>Include subfolders</value>
+    <value>包括子目录</value>
   </data>
   <data name="Max depth" xml:space="preserve">
-    <value>Max depth</value>
+    <value>最大深度</value>
   </data>
   <data name="Modified" xml:space="preserve">
     <value>Modified</value>
   </data>
   <data name="More" xml:space="preserve">
-    <value>More</value>
+    <value>更多</value>
   </data>
   <data name="More..." xml:space="preserve">
-    <value>More...</value>
+    <value>更多...</value>
   </data>
   <data name="Move files..." xml:space="preserve">
     <value>Move files...</value>
@@ -295,7 +295,7 @@
     <value>Size is</value>
   </data>
   <data name="Sort" xml:space="preserve">
-    <value>Sort</value>
+    <value>排序</value>
   </data>
   <data name="Stop after first match" xml:space="preserve">
     <value>Stop after first match</value>
@@ -316,7 +316,7 @@
     <value>Use .gitignore</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Version</value>
+    <value>版本</value>
   </data>
   <data name="Wrap Text" xml:space="preserve">
     <value>Wrap Text</value>
