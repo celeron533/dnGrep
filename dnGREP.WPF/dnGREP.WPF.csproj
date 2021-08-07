@@ -164,8 +164,8 @@
     <Compile Include="MVHelpers\TypeOfSearchValueConverter.cs" />
     <Compile Include="MVHelpers\ValidationColorConverter.cs" />
     <Compile Include="Properties\LayoutProperties.cs" />
-    <Compile Include="Properties\Resources-zh.Designer.cs">
-      <DependentUpon>Resources-zh.resx</DependentUpon>
+    <Compile Include="Properties\Resources.zh.Designer.cs">
+      <DependentUpon>Resources.zh.resx</DependentUpon>
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
     </Compile>
@@ -438,9 +438,9 @@
     <Compile Include="Views\TestPatternView.xaml.cs">
       <DependentUpon>TestPatternView.xaml</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Properties\Resources-zh.resx">
+    <EmbeddedResource Include="Properties\Resources.zh.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources-zh.Designer.cs</LastGenOutput>
+      <LastGenOutput>Resources.zh.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
